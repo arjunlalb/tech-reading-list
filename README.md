@@ -11,3 +11,6 @@
 
 # Web Development
 - [Patterns.dev](https://www.patterns.dev/)
+
+# Code Review
+- [Code review like a human](https://mtlynch.io/human-code-reviews-1/)
